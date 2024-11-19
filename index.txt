@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Практическая работа 4</title>
+</head>
+<body>
+
+<h1>Практическая работа 4</h1>
+
+<iframe src="menu.html" name="menu" width="200" height="200"></iframe>
+<iframe src="index.html" name="index" width="600" height="200"></iframe>
+
+</body>
+</html>
+
